@@ -127,7 +127,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 
 
 - **Sprint Notları:**
-   * UI/UX Tasarımı: Arayüz geliştirmeleri için modern ve dinamik bir yapı sunan _`Reactijs`_ kütüphanesinin kullanılmasına karar verildi.
+   * UI/UX Tasarımı: Arayüz geliştirmeleri için modern ve dinamik bir yapı sunan _`React.js`_ kütüphanesinin kullanılmasına karar verildi.
    * Görev takibi, sprint planlaması ve genel proje yönetimi için _`Asana`_  aracı benimsendi.
    * Günlük scrum toplantıları ve diğer ekip görüşmeleri, takımın müsaitlik durumuna göre _`Google Meet`_  üzerinden gerçekleştirildi.
 
@@ -146,7 +146,12 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
    * Projenin ana fikri Beyza tarafından üretildi. Fikrin potansiyelini göstermek amacıyla, statik bir görsel üzerinde başarılı bir postür analizi denemesi gerçekleştirildi ve bu prototip üzerinden ilerleme kararı alındı.
    * Onur tarafından yapılan isim ve logo çalışmaları incelendi. Ekip tarafından ortak bir kararla projeye "PostureGuard" adı verildi ve sunulan katalog üzerinden logo seçimi yapıldı.
    * Berhak tarafından başlangıçta HTML ile bir arayüz tasarımı yapıldı. Projenin ihtiyaç duyduğu dinamik yapı göz önünde bulundurularak, geliştirmenin React ile devam etmesine karar verildi. 
-   * Login, Home, Analyz, AboutUs ve Contact Page tasarımları Berhat tarafından yürütüldü.
+   * Tam kapsamlı kullanıcı girişi ve kayıt sistemi geliştirildi. (Login/SignUp Page)
+   * React.js teknolojisi kullanılarak backend entegrasyonu iyileştirme çalışmaları yürütüldü. 
+   * Mobil uyumlu responsive tasarım ve dinamik parçacık animasyonları ile zenginleştirildi.
+   * Görsel Yükleme(JPG, PNG, WEBP formatlarında) ve Duruş Analizi Sistemi hazırlandı.
+   * HTTP client katmanı üzerine kurulmuş authentication ve posture servis katmanları oluşturuldu.
+   * Login, Home, Analyz, AboutUs ve Contact Page tasarımları Berhat tarafından tamamlandı.
    * Backend geliştirmeleri Gülbahar tarafından yürütüldü. Bu kapsamda, live_posture ve posture_analyzer adlarıyla hem canlı hem de statik görüntüden duruş analizi yapabilen iki farklı fonksiyon hazırlandı. Ayrıca, bir destek mail adresi kurarak uygulamanın 'İletişim' (Contact) bölümünü işlevsel hale getirildi.
    * Proje yönetimi ve dokümantasyon süreçlerini yürüten Beyza, ürün tanıtım dosyası, iş planı kanvası (yalın kanvas), Sıkça Sorulan Sorular, hedef kitle/persona dosyaları, burndown chart ve uygulama haritası gibi temel proje belgelerini hazırlayarak görev takibini Asana üzerinden gerçekleştirdi.
    * Geliştirme hedefi olarak, kullanıcıların duruş verilerinin veritabanında saklanması ve bu veriler analiz edilerek kişiye özel egzersiz tavsiyeleri sunulması kararlaştırıldı.
