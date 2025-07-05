@@ -220,7 +220,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
   - [x] `Google Gemini API`
   - [x] `PostgreSQL`
   - [x] `React.js`
-  - [x] `CSS3`
+  - [x] `HTML5/ CSS3`
   - [x] `Python`
   - [x] `JWT (JSON Web Tokens)`
   - [x] `Fernet`
