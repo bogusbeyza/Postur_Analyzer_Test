@@ -186,7 +186,7 @@ Gününün önemli bir kısmını masa başında bilgisayar karşısında geçir
 <details>
   <summary><h2>İş Modeli Kanvası </h2></summary>
 
-  ![İş Modeli Kanvası](Project_Management_Files/General_Documents/İs_Modeli_Canvasi.pdf)  
+  ![İş Modeli Kanvası](https://github.com/bogusbeyza/Postur_Analyzer_Test/blob/main/Project_Management_Files/General_Documents/Yal%C4%B1n_Kanvas.png)  
   
 </details>
 
